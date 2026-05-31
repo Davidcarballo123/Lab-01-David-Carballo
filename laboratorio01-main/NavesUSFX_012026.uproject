@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5785A9F7-4320-A3C7-F17D-E7957EED34BD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NavesUSFX_012026",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
